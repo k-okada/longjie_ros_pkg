@@ -1,5 +1,7 @@
 # PlayStation4 stereo camera package for ROS
 
+![[Screenshot](http://img.youtube.com/vi/yUa3Rya6fhk/2.jpg)](https://www.youtube.com/watch?v=yUa3Rya6fhk)
+
 ## WARNING
 
 * This package is experimental and not completed.
