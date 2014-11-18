@@ -10,7 +10,7 @@
 
 * You need a ps4eye camera [PlayStation Camera CUH-ZEY1J](http://www.jp.playstation.com/ps4/peripheral/cuhzey1j.html)
 
-* You need to hack the cable. See [PS4eye(http://ps4eye.tumblr.com/post/79572946666/more-photos-of-cable-wiring-to-clarify-how-the).
+* You need to hack the cable. See [PS4eye](http://ps4eye.tumblr.com/post/79572946666/more-photos-of-cable-wiring-to-clarify-how-the).
 
 * You may need newer linux kernel. Kernel version 3.17.3 is OK. 3.13.0 is NG.
 
