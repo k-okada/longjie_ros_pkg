@@ -7,6 +7,7 @@ import roslib
 roslib.load_manifest("ps4eye"); 
 from sensor_msgs.msg import CameraInfo
 import rospy
+import rospkg
 
 class CameraInfoPublisher: 
 # Callback of the ROS subscriber. 
@@ -66,7 +67,8 @@ def parse_yaml(filename):
 if __name__ == '__main__': 
     argv = rospy.myargv(sys.argv)
     rospy.init_node("camera_info_publisher")
-    publisher = CameraInfoPublisher('stereo','/home/tajima/.ros/camera_info/left.yaml','/home/tajima/.ros/camera_info/right.yaml')
+    rospack = rospkg.RosPack()
+    publisher = CameraInfoPublisher('stereo', rospack.get_path('ps4eye')+'/camera_info/left.yaml',rospack.get_path('ps4eye')+'/camera_info/right.yaml')
 
     while not rospy.is_shutdown():
         rospy.sleep(rospy.Duration(.1))
