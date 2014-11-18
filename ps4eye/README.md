@@ -8,13 +8,13 @@
 
 ## Requirements
 
-* You need a ps4eye camera (PlayStation Camera CUH-ZEY1J)[http://www.jp.playstation.com/ps4/peripheral/cuhzey1j.html]
+* You need a ps4eye camera [PlayStation Camera CUH-ZEY1J](http://www.jp.playstation.com/ps4/peripheral/cuhzey1j.html)
 
-* You need to hack the cable. See (PS4eye)[http://ps4eye.tumblr.com/post/79572946666/more-photos-of-cable-wiring-to-clarify-how-the].
+* You need to hack the cable. See [PS4eye(http://ps4eye.tumblr.com/post/79572946666/more-photos-of-cable-wiring-to-clarify-how-the).
 
 * You may need newer linux kernel. Kernel version 3.17.3 is OK. 3.13.0 is NG.
 
-* Clone (ps4eye github repo)[https://github.com/ps4eye/ps4eye]
+* Clone [ps4eye github repo](https://github.com/ps4eye/ps4eye)
 
 ## Usage
 
@@ -39,6 +39,6 @@ $ rosrun image_view stereo_view stereo:=/stereo image:=image_rect_color
 
 Thanks for the incredible ps4 camera hackers.
 
-* (PS4eye PlayStation 4 camera hacking)[http://ps4eye.tumblr.com/]
-* (ps4eye github repo)[https://github.com/ps4eye/ps4eye]
-* (PS4Eye をハイフレームレートステレオカメラとして使う)[http://goo.gl/2AcdMQ]
+* [PS4eye PlayStation 4 camera hacking](http://ps4eye.tumblr.com/)
+* [ps4eye github repo](https://github.com/ps4eye/ps4eye)
+* [PS4Eye をハイフレームレートステレオカメラとして使う](http://goo.gl/2AcdMQ)
