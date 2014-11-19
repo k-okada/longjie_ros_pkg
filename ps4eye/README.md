@@ -5,7 +5,7 @@
 ## WARNING
 
 * This package is experimental and not completed.
-* You need to hack (cut and solder) the PS4 cable. It may damage your device. Do it at your own risk.
+* You need to hack (cut and solder) the PS4 camera's cable. It may damage your device. Do it at your own risk.
 * The PS4 camera is USB 3.0 only and is not compatible with USB 2.0 systems.
 
 ## Requirements
