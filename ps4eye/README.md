@@ -14,8 +14,9 @@
 
 * You need to hack the cable. See [PS4eye](http://ps4eye.tumblr.com/post/79572946666/more-photos-of-cable-wiring-to-clarify-how-the).
 
-* You may need newer linux kernel. Kernel version 3.17.3 is OK. 3.13.0 is NG.
+* You may need newer linux kernel. Kernel version 3.17.3 is OK. 3.16.0 is NG.
 
+  If you are using ubuntu, please check [this page](http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.17-utopic/) to update kernel
 * Clone [ps4eye github repo](https://github.com/ps4eye/ps4eye)
 
 ## Usage
